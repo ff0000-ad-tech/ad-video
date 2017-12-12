@@ -21,7 +21,7 @@
     "mocha": "^4.0.1"
   },
   "dependencies": {
-    "ad-control": "git://github.com/ff0000-ad-tech/ad-control.git",
+    "ad-control": "git://github.com/ff0000-ad-tech/ad-control.git#es6",
     "ad-events": "git://github.com/ff0000-ad-tech/ad-events.git",
     "ad-external": "git://github.com/ff0000-ad-tech/ad-external.git",
     "ad-load": "git://github.com/ff0000-ad-tech/ad-load.git",
