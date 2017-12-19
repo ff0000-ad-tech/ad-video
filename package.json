@@ -26,6 +26,7 @@
     "ad-external": "git://github.com/ff0000-ad-tech/ad-external.git",
     "ad-load": "git://github.com/ff0000-ad-tech/ad-load.git",
     "ad-ui": "git://github.com/ff0000-ad-tech/ad-ui.git",
+    "ad-canvas": "git://github.com/ff0000-ad-tech/ad-canvas.git",
     "ad-view": "git://github.com/ff0000-ad-tech/ad-view.git"
   }
 }
