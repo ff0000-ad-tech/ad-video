@@ -29,5 +29,5 @@ export {
 	UIPoster,
 	UISliderProgress,
 	UISliderVolume,
-	UITimeDisplay,
+	UITimeDisplay
 }
