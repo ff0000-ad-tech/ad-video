@@ -1,29 +1,29 @@
 {
-  "name": "ad-video",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "mocha --require test/testHelper"
-  },
-  "repository": {
-    "type": "git"
-  },
-  "author": "RED Interactive Agency",
-  "license": "ISC",
-  "devDependencies": {
-    "eslint": "^4.16.0",
-    "eslint-config-prettier": "^2.9.0",
-    "eslint-plugin-prettier": "^2.5.0",
-    "prettier": "^1.10.2"
-  },
-  "dependencies": {
-    "ad-control": "git://github.com/ff0000-ad-tech/ad-control.git",
-    "ad-events": "git://github.com/ff0000-ad-tech/ad-events.git",
-    "ad-external": "git://github.com/ff0000-ad-tech/ad-external.git",
-    "ad-load": "git://github.com/ff0000-ad-tech/ad-load.git",
-    "ad-ui": "git://github.com/ff0000-ad-tech/ad-ui.git",
-    "ad-canvas": "git://github.com/ff0000-ad-tech/ad-canvas.git",
-    "ad-view": "git://github.com/ff0000-ad-tech/ad-view.git"
-  }
+	"name": "ad-video",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "mocha --require test/testHelper"
+	},
+	"repository": {
+		"type": "git"
+	},
+	"author": "RED Interactive Agency",
+	"license": "ISC",
+	"devDependencies": {
+		"eslint": "^4.16.0",
+		"eslint-config-prettier": "^2.9.0",
+		"eslint-plugin-prettier": "^2.5.0",
+		"prettier": "^1.10.2"
+	},
+	"dependencies": {
+		"ad-control": "git+https://github.com/ff0000-ad-tech/ad-control.git",
+		"ad-events": "git+https://github.com/ff0000-ad-tech/ad-events.git",
+		"ad-external": "git+https://github.com/ff0000-ad-tech/ad-external.git",
+		"ad-load": "git+https://github.com/ff0000-ad-tech/ad-load.git",
+		"ad-ui": "git+https://github.com/ff0000-ad-tech/ad-ui.git",
+		"ad-canvas": "git+https://github.com/ff0000-ad-tech/ad-canvas.git",
+		"ad-view": "git+https://github.com/ff0000-ad-tech/ad-view.git"
+	}
 }
