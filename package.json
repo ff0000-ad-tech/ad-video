@@ -1,20 +1,25 @@
 {
-	"name": "ad-video",
+	"name": "@ff0000-ad-tech/ad-video",
+	"publishConfig": {
+		"access": "public"
+	},
 	"version": "1.0.0",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
+		"pub": "np",
 		"test": "mocha --require test/testHelper"
 	},
 	"repository": {
 		"type": "git"
 	},
 	"author": "RED Interactive Agency",
-	"license": "ISC",
+	"license": "MIT",
 	"devDependencies": {
 		"eslint": "^4.16.0",
 		"eslint-config-prettier": "^2.9.0",
 		"eslint-plugin-prettier": "^2.5.0",
+		"np": "^2.19.0",
 		"prettier": "^1.10.2"
 	},
 	"dependencies": {
