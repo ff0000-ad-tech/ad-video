@@ -7,8 +7,7 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"pub": "np",
-		"test": "mocha --require test/testHelper"
+		"pub": "np"
 	},
 	"repository": {
 		"type": "git",
