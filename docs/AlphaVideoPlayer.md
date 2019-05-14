@@ -96,7 +96,7 @@ View.main.AlphaVideoPlayer = new AlphaVideoPlayer ({
 View.main.AlphaVideoPlayer.play();
 </pre>
 <br>
-<img src="../docs_images/alphavideoplayer/alpha_mask.jpg" />
+<img src="https://github.com/ff0000-ad-tech/ad-docs/blob/master/assets/ad-video/alpha_mask.jpg" />
 <br><br><br><br>
 <b>Sample - Uses a JPG - named 'red_jpg' - as a mask. The image's blacks and whites define the visible area. <span style="color: #cc0000;">(NOTE THE MP4 VIDEO FORMAT)</span></b><br>
 <pre class="sunlight-highlight-javascript">
@@ -118,5 +118,5 @@ View.main.AlphaVideoPlayer = new AlphaVideoPlayer ({
 View.main.AlphaVideoPlayer.play();
 </pre>
 <br>
-<img src="../docs_images/alphavideoplayer/luma_mask.jpg" />
+<img src="https://github.com/ff0000-ad-tech/ad-docs/blob/master/assets/ad-video/luma_mask.jpg" />
 
