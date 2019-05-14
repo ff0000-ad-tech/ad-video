@@ -1,0 +1,10 @@
+{{#classes}}
+{{>header}}
+{{#groupBy (option "group-by")~}}
+{{#if ('&&'
+    ('!==' name "MediaEvent")
+)}}
+{{>member-index-grouped}}
+{{/if}}
+{{/groupBy~}}
+{{/classes}}
