@@ -9,9 +9,13 @@
 [![npm license](https://img.shields.io/npm/l/@ff0000-ad-tech%2Fad-video.svg?style=flat-square)](https://github.com/ff0000-ad-tech/ad-video/blob/master/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
+* * *
+
 # Video
 
-* * *
+Media Players
+
+## API
 
 ## <a name="AlphaVideoPlayer" href="./docs/AlphaVideoPlayer.md">AlphaVideoPlayer</a>
 * new AlphaVideoPlayer()
@@ -124,5 +128,6 @@
 ## <a name="UITimeDisplay" href="./docs/UITimeDisplay.md">UITimeDisplay</a>
 * new UITimeDisplay()
 * <a href="./docs/UITimeDisplay.md#UITimeDisplay.showDuration">.showDuration</a> : <code>boolean</code>
+
 
 * * *
